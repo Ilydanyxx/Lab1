@@ -1,0 +1,6 @@
+railway/model/Locomotive.class
+railway/model/CargoCarriage.class
+railway/model/RailwayTransport.class
+railway/service/TrainService.class
+railway/model/PassengerCarriage.class
+main/java/railway/Main.class
